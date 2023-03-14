@@ -1,10 +1,12 @@
 # Keypirinha Plugin: run_1c
 
-This is run_1c, a plugin for the
+This is `run_1c`, a plugin for the
 [Keypirinha](http://keypirinha.com) launcher.
 
 
 ## Download
+
+https://github.com/gotoss08/keypirinha-run_1c/releases
 
 
 ## Build
@@ -28,6 +30,15 @@ move it to the `InstalledPackage` folder located at:
 ## Usage
 
 Run **keypirinha**, type `Run 1C`
+
+
+## Configuration
+
+In order to use this plugin, you will need 1C installed on your computer.
+
+Once 1C is installed, you will need to specify path to `1cestart.exe` file.
+
+Deafult `1cestart.exe` file location set to: `"C:\Program Files\1cv8\common\1cestart.exe"`
 
 
 ## License
