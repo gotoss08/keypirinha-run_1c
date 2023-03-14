@@ -38,7 +38,9 @@ In order to use this plugin, you will need 1C installed on your computer.
 
 Once 1C is installed, you will need to specify path to `1cestart.exe` file.
 
-Deafult `1cestart.exe` file location set to: `"C:\Program Files\1cv8\common\1cestart.exe"`
+You can do this using keypirinha's default configuraion manager: `keypirinha/Configure Package/run_1c`
+
+Default `1cestart.exe` file location set to: `"C:\Program Files\1cv8\common\1cestart.exe"`
 
 
 ## License
