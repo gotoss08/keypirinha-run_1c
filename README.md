@@ -15,24 +15,22 @@ move it to the `InstalledPackage` folder located at:
   `C:\Users\%USERNAME%\AppData\Roaming\Keypirinha\InstalledPackages`)
 
 
-## License
+## Usage
 
-**TODO:** recommended section. Below is an example that goes with the default
-LICENSE file (MIT license). Do not forget to add your name in the `LICENSE`
-file!
+Run keypirinha, type "Run 1C"
+
+
+## License
 
 This package is distributed under the terms of the MIT license.
 
 
 ## Credits
 
-**TODO:** optional section.
+Author - gotoss08@gmail.com
 
 
 ## Contribute
-
-**TODO:** optional section. Below is a template example, based on the one found
-in Keypirinha's Packages repository.
 
 1. Check for open issues or open a fresh issue to start a discussion around a
    feature idea or a bug.
