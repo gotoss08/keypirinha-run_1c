@@ -18,7 +18,7 @@ https://github.com/gotoss08/keypirinha-run_1c/releases
 
 ## Install
 
-Once the `run_1c.keypirinha-package` file is built,
+Once the `run_1c.keypirinha-package` file is installed,
 move it to the `InstalledPackage` folder located at:
 
 * `Keypirinha\portable\Profile\InstalledPackages` in **Portable mode**
@@ -29,12 +29,14 @@ move it to the `InstalledPackage` folder located at:
 
 ## Usage
 
-Run **keypirinha**, type `Run 1C`
+Run **keypirinha**, type `Run 1C`, type valid server base path.
+
+For example: `Run 1C` -> `Srvr="srv-1c:1234";Ref="base";`
 
 
 ## Configuration
 
-In order to use this plugin, you will need 1C installed on your computer.
+In order to use this plugin, you will need 1C to be installed on your computer.
 
 Once 1C is installed, you will need to specify path to `1cestart.exe` file.
 
