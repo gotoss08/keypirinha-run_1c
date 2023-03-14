@@ -4,9 +4,19 @@ This is run_1c, a plugin for the
 [Keypirinha](http://keypirinha.com) launcher.
 
 
+## Download
+
+
+## Build
+
+1. You will need [Keypirinha SDK](https://github.com/Keypirinha/SDK)
+2. Set SDK's environment variables with `%sdk_path%/cmd/kpenv.cmd`
+3. Build project `%project_path%/build.cmd`
+
+
 ## Install
 
-Once the `run_1c.keypirinha-package` file is installed,
+Once the `run_1c.keypirinha-package` file is built,
 move it to the `InstalledPackage` folder located at:
 
 * `Keypirinha\portable\Profile\InstalledPackages` in **Portable mode**
@@ -17,7 +27,7 @@ move it to the `InstalledPackage` folder located at:
 
 ## Usage
 
-Run keypirinha, type "Run 1C"
+Run **keypirinha**, type `Run 1C`
 
 
 ## License
